@@ -1,0 +1,9 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="GoCommentStart" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="GoReceiverNames" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="GoSnakeCaseUsage" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="GoUnusedConst" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  </profile>
+</component>
